@@ -1,2 +1,5 @@
-# auction_docs
-Advanced Auction System Mini Documentation
+# Triggers ( Client Events )
+
+TriggerEvent('uniq-auction:client:showUI')
+
+TriggerEvent('uniq-auction:client:hideUI')

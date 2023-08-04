@@ -1,4 +1,4 @@
-# Triggers ( Client Events )
+# Events
 
 TriggerEvent('uniq-auction:client:showUI')
 
